@@ -2,8 +2,7 @@
 
 À propos de moi
 
-Salut ! Je suis étudiant à l'Université de Limoges, où je poursuis mes études dans [votre domaine d'étude, par exemple informatique, biologie, etc.]. Passionné par [vos passions, par exemple la programmation, la science, le design, etc.], je suis toujours curieux d'apprendre de nouvelles choses et de relever des défis.
-
+Salut ! Je suis étudiant à l'Université de Limoges, où je poursuis mes études en informatique.
 Ce que vous trouverez ici
 
 Sur mon profil GitHub, vous pourrez découvrir :
@@ -18,11 +17,9 @@ Technologies et outils 🛠️
 
 Voici quelques technologies et outils que j'utilise :
 
-Langages : [exemple : Python, JavaScript, C++]
+Langages : Python, R, Html
 
-Frameworks : [exemple : React, Django]
-
-Outils : [exemple : Git, Docker]
+Outils : Git, Docker
 
 Objectifs 🎯
 
@@ -36,8 +33,6 @@ Contact 📬
 
 N'hésitez pas à me contacter si vous souhaitez collaborer ou discuter :
 
-Email : [votre email ici]
-
-LinkedIn : [votre profil LinkedIn ici]
+Email : isaac.parzych@etu.unilim.fr
 
 Merci de visiter mon profil ! 😊
